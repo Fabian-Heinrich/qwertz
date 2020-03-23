@@ -1,6 +1,4 @@
-# Aufgabe
-
-Sortierverfahren QWERTZ
+# Aufgabe - Sortierverfahren QWERTZ
 
 Bei diesem Verfahren wird das zu sortierende Feld in zwei Teile zerlegt, wobei der erste Teil alle Elemente <= einem Vergleichselement enthält, der rechte Teil alle Elemente > dem Vergleichselement.
 
@@ -15,6 +13,7 @@ Erstellen Sie ein NSD und laden Sie es hier hoch. Kommentieren Sie dabei genau, 
 
 Kleinste der ersten beiden zahlen als Vergleichselement
 
+```
 897346125 -> 8
 	87346125 -> 7
 		7346125 -> 3
@@ -32,7 +31,7 @@ Kleinste der ersten beiden zahlen als Vergleichselement
 					7
 		8
 	9
-	
+```	
 	
 	
 	
