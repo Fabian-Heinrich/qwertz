@@ -1,4 +1,4 @@
-#Aufgabe
+# Aufgabe
 
 Sortierverfahren QWERTZ
 
@@ -11,7 +11,7 @@ Wer dem Verfahren nicht traut, kann gerne Probeläufe mit Zetteln duirchführen.
 Erstellen Sie ein NSD und laden Sie es hier hoch. Kommentieren Sie dabei genau, wie Sie das Vergleichselement wählen.
 
 
-#Ansatz
+# Ansatz
 
 Kleinste der ersten beiden zahlen als Vergleichselement
 
